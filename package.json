@@ -1,7 +1,7 @@
 {
   "name": "task1-todo_app",
   "version": "0.1.0",
-  "homepage": "https://krishna0129.github.io/LGM-VIP-task1",
+  "homepage": "https://krishna0129.github.io/lgm-task1", 
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
